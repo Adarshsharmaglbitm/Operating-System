@@ -1,5 +1,5 @@
 # Operating-System
-**FCFS (FIRST-COME, FIRST-SERVED) Scheduling**
+1.**FCFS (FIRST-COME, FIRST-SERVED) Scheduling**
 FCFS Scheduling algorithm automatically executes the queued processes and requests in the order of their arrival. It allocates the job that first arrived in the queue to the CPU, then allocates the second one, and so on.
 **Mathematical Examples**
 1. **Arrival time (AT)** − Arrival time is the time at which the process arrives in ready queue. 
