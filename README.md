@@ -1,3 +1,4 @@
+![FCFS](https://github.com/user-attachments/assets/35729253-3094-482b-84f4-7faf591fe00a)
 # Operating-System
 **FCFS (FIRST-COME, FIRST-SERVED) Scheduling**
 FCFS Scheduling algorithm automatically executes the queued processes and requests in the order of their arrival. It allocates the job that first arrived in the queue to the CPU, then allocates the second one, and so on.
