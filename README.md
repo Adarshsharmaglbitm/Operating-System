@@ -10,3 +10,7 @@ FCFS Scheduling algorithm automatically executes the queued processes and reques
 6. **Response time (RT)** − Response time is the time at which CPU has been allocated to a particular process first time.
 In case of non-preemptive scheduling, generally Waiting time and Response time is same.
 7. **Gantt chart** − Gantt chart is a visualization which helps to scheduling and managing particular tasks in a project. It is used while solving scheduling problems, for a concept of how the processes are being allocated in different algorithms.
+![Screenshot 2024-07-17 090828](https://github.com/user-attachments/assets/708e1159-db64-450a-b9b8-4b213fc7633e)
+### Shortest Job First (SJF) Scheduling:-
+An Operating System uses a variety of algorithms to efficiently arrange the operations for the processor, Shortest Job First (SJF) algorithm is one of them. In the Shortest Job First algorithm, the CPU will be assigned a job with the smallest burst time first, and the processes in the queue with the shorter burst time will be received and executed by the CPU more quickly.
+![Screenshot 2024-07-17 085748](https://github.com/user-attachments/assets/fe9cc576-49ab-4434-aa8d-1849b95b48ba)
